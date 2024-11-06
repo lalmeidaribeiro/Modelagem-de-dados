@@ -1,10 +1,10 @@
-# E-commerce de Venda de Livros 
+# E-commerce de Venda de Livros  :books:
 
-<p>Esta pasta contém o projeto de e-commerce dedicado à venda de livros e artigos relacionados ao universo da leitura. O objetivo é desenvolver o DER - Diagrama de entidade Relacional.</p>
+<p>Esta pasta contém o projeto de e-commerce dedicado à venda de livros e artigos relacionados ao universo da leitura. O objetivo é desenvolver os modelos: Conceitual, Lógico e Físico.</p>
 
-## Mini-mundo
+## Mini Mundo  
 
-<p>Imagine a seguinte situação em um clube do livro Queremos coletar os dados pessoais de nossos clientes, como se ele é pessoa física ou jurídica. No caso de PF o seu CPF e RG, e no caso de jurídica o CNPJ e IE. Além disso, queremos coletar e armazenar o seu nome, endereço, telefone e e-mail.</p>
+<p>Imagine a seguinte situação em um e-commerce de livros. Queremos coletar os dados pessoais de nossos clientes, como se ele é pessoa física ou jurídica. No caso de PF o seu CPF e RG, e no caso de jurídica o CNPJ e IE. Além disso, queremos coletar e armazenar o seu nome, endereço, telefone e e-mail.</p>
 <p>O produto principal do e-commerce são livros. Estes livros têm informações associadas a eles como o título, categoria, o ISBN (International Standard Book Number), o ano de publicação, o valor, a editora que publicou o livro, bem como o autor ou autora da obra.</p>
 <p>Os livros são fornecidos por editoras. Precisamos ter guardados o telefone da editora, o nome de contato, o e-mail e no máximo 2 telefones.</p>
 <p>Sabemos que não podemos ter o mesmo livro vindo de várias editoras. O livro é exclusivo de uma editora.</p>
@@ -15,15 +15,15 @@
 - **Cliente**: Armazena informações básicas dos clientes.
 - **Livro**: Armazena informações básicas sobre os livros.
 - **Editora**: Armazena informações sobre a editora dos livros. 
-- **Pedido de Compra**: 
-- **Estoque**: Armazenas imformações sobre o estoque do cliente.
+- **Pedido de Compra**: Registra os detalhes dos pedidos realizados pelos clientes.
+- **Estoque**: Armazenas imformações sobre o estoque como a quantidade de produtos disponíveis no estoque.
 
 ## Entidades e Relacionamentos
 
-- **Cliente** – Faz – **Pedido**
-- **Pedido** – Contém – **Livro**
-- **Livro** – Pertence – **Editora**
-- **Estoque** – Existe – **Livro**
+- **Cliente** `Faz` **Pedido**
+- **Pedido** `Contém` **Livro**
+- **Livro** `Pertence` **Editora**
+- **Estoque** `Existe` **Livro**
 
 ## Entidades e Atributos
 
