@@ -1,4 +1,4 @@
-# Exercicio Médico Paciente
+# Exercicio Médico Paciente :hospital:
 
 <p>Esta pasta contém o projeto sobre a Clínica "Vida Saudável". O objetivo é desenvolver os modelos: Conceitual, Lógico e Físico.</p>
 
