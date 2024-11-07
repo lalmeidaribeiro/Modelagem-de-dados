@@ -1,4 +1,4 @@
-# Loja de Calçados "Passo a Passo" 
+# Loja de Calçados "Passo a Passo" :high_heel:
 
 <p>Esta pasta contém o projeto sobre a loja de calcados "Passo a Passo". O objetivo é desenvolver os modelos: Conceitual, Lógico e Físico.</p>
 
@@ -79,5 +79,5 @@ Abaixo estão as entidades principais do sistema e seus respectivos atributos:
     - `cod_modelo`: Identificador único do modelo.
     - `Nome`:Nome do modelo.
 
-<p>Este projeto visa não apenas a implementação de um sistema de vendas, mas também a aplicação prática de conceitos de modelagem de dados. Espera-se que as informações armazenadas ajudem a otimizar o processo de vendas e a gestão do estoque.</p>
+<p>Este projeto visa não apenas a implementação de um sistema de vendas, mas também a aplicação prática de conceitos de modelagem de dados.</p>
 
