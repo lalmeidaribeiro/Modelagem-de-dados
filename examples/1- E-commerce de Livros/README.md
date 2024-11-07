@@ -1,6 +1,6 @@
-# E-commerce de Venda de Livros  :books:
+# E-commerce de Venda de Livros  :books: 
 
-<p>Esta pasta contém o projeto de e-commerce dedicado à venda de livros e artigos relacionados ao universo da leitura. O objetivo é desenvolver os modelos: Conceitual, Lógico e Físico.</p>
+<p>Esta pasta contém o projeto dedicado à venda de livros e artigos relacionados ao universo da leitura. O objetivo é desenvolver os modelos: Conceitual, Lógico e Físico.</p>
 
 ## Mini Mundo  
 
